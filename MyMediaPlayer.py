@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan  2 15:33:03 2024
-
-@author: Ahsan
-"""
 
 
 """
